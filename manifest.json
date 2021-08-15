@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "TeFi UI Tweaks",
+  "version": "0.1.0",
+  "description": "Modify CSS and HTML",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://www.tefi.app/dashboard"]
+  }]
+
+}

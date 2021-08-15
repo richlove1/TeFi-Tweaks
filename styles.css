@@ -1,0 +1,40 @@
+html, body {
+    /*background-color: red !important;*/
+}
+
+@media screen and (min-width: 30em) {
+	.VJZYq {
+	    width: 60% !important;
+	}
+}
+
+.bNofmb {
+    margin-bottom: 60px;
+    width: 600px;
+    padding-bottom: 50px;
+    background-color: #2c2f4a;
+    padding: 20px;
+    border-radius: 10px;
+    border-bottom: 1px solid #787b8a;
+}
+
+.gRamtj {
+    border-bottom: 1px solid #787b8a;
+    padding-bottom: 20px;
+}
+
+.fbbXuR {
+    color: #4cb586 !important;
+}
+
+.bJSpmP {
+    color: #c23e3e !important;
+}
+
+.iucWyV {
+    color: #d1b147 !important;
+}
+
+.kKWlKv {
+    color: #84add1 !important;
+}
